@@ -57,4 +57,4 @@ The top of the ranking is brainstem reticular nuclei (GRN, PGRN, IRN), secondary
 
 Open the notebook in Colab with the badge above. The first part is the Neuromatch Academy tutorial's setup and data loading (it installs `ONE-api` and `ibllib`). The analysis is in Part A (GRU vs. logistic regression) and Part B (regions).
 
-Data: [International Brain Laboratory brain-wide map](https://www.internationalbrainlab.com/brainwide-map), via preprocessed PSTHs from the Neuromatch Academy tutorial.
+Data: [International Brain Laboratory brain-wide map](https://www.internationalbrainlab.com/brainwide-map).
